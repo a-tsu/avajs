@@ -1,0 +1,27 @@
+{
+  "name": "avajs",
+  "version": "1.0.0",
+  "description": "test for using ava.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --tap | tap-nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-tsu/avajs.git"
+  },
+  "keywords": [
+    "ava"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-tsu/avajs/issues"
+  },
+  "homepage": "https://github.com/a-tsu/avajs#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.23.0",
+    "tap-nyan": "^1.1.0"
+  }
+}
